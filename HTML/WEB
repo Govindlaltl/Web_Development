@@ -1,6 +1,29 @@
-DAY1
+*******************************************************************DAY1*******************************************************************************************************
 HTML - HYPERTEXT MARKUP LANGUAGE
 <h1>This is heading</h1>(Heading)
 <p>This is paragraph</p>(Paragraph)
 <hr/> or <hr> will give a horintal line(Horizontal rule)
-<br/> used to break a sentence(Break Element
+<br/> used to break a sentence(Break Element)
+Did one project(Movie Ranking)
+*******************************************************************DAY2*******************************************************************************************************
+Learned about list elements
+1)Ordered list 
+<ol>
+  <li>Hello</li>
+</ol>
+2)Unordered list
+<ul>
+  <li>Hello</li>
+</ul>
+Nesting and Indentation - ordered list inside other ordered list or unordered list || unordered list inside other unordered list or ordered list
+Anchor Elements
+<a href="https://github.com/govindlaltl" draggable="true">GITHUB</a> (when i click GITHUB it will direct me to my github profile and i can drag the word github because 
+draggable is used)
+Image Element
+<img src="url"/> (has self closing tag)
+<img src="url/200"/> (200 indicate the size of the image)
+Alt Attribute 
+Alt  - Alternate text description (It is  used to describe the  image it will be useful for blind people)
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/puppy.gif" alt="Puppy digging through the sand"/>
+Did one project(Birthday Invitation)
+
