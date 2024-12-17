@@ -1,1 +1,6 @@
-
+DAY1
+HTML - HYPERTEXT MARKUP LANGUAGE
+<h1>This is heading</h1>(Heading)
+<p>This is paragraph</p>(Paragraph)
+<hr/> or <hr> will give a horintal line(Horizontal rule)
+<br/> used to break a sentence(Break Element
